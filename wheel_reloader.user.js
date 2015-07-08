@@ -3,7 +3,9 @@
 // @namespace      https://github.com/himuro-majika
 // @description    Reloads page by mouse wheel on page bottom
 // @description    マウスホイールでリロードしちゃう
+// @grant          none
 // @include        *
+
 // ==/UserScript==
 (function () {
 /*
